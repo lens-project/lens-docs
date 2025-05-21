@@ -15,6 +15,7 @@ lens-docs/
 │   ├── architecture.md            # System-wide architecture
 │   ├── integration.md             # Cross-component integration specs
 │   └── metrics.md                 # Project-wide success metrics and KPIs
+├── retrospectives/                # Project retrospectives and learnings
 ├── subprojects/                   # Subproject-specific documentation
 │   ├── lens-engine/               # Content processing engine docs
 │   │   ├── README.md              # Overview of lens-engine
